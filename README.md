@@ -1,2 +1,2 @@
-# java_coaching_public
+# java_fundamentals_training
 
