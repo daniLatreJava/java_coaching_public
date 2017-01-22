@@ -83,4 +83,27 @@ Write a program that:
 >	**Class name**: *SpeedCalculator*
 >	**Test class name**: *SpeedCalculatorTest*
 
+### Challenge 5: Power of 2
+
+This program takes a command-line argument **n** and prints a table of the powers of 2 that are less than or equal to **2^n**
+
+**SAMPLE RUN**:
+> **Input**:
+> + number: 5
+> 	
+> **Results**:
+> + 0 1
+> + 1 2
+> + 2 4
+> + 3 8
+> + 4 16
+> + 5 32
+
+
+**COMPONENTS**:
+>	**Package**: *com.knowmad.coaching.java.${student_name}*
+>	**Class name**: *PowerOfTwo*
+>	**Test class name**: *PowerOfTwoTest*
+
+
 
