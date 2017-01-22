@@ -1,0 +1,14 @@
+**/.DS_Store
+
+### eclipse
+.settings
+.classpath
+.project
+.externalToolBuilders
+
+### maven
+/target/
+
+### logs
+*.log
+/**/*.log
