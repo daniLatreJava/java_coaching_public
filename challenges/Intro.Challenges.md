@@ -18,9 +18,9 @@
 > + Area : 35
 
 **COMPONENTS**:
->	**Package**: *com.knowmad.coaching.java.${student_name}*
->	**Class name**: *Rectangle*
->	**Test class name**: *RectangleTest*
+> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Class name**: *Rectangle*
+> * **Test class name**: *RectangleTest*
 
 
 ### Challenge 2: Backetball player
@@ -37,9 +37,9 @@
 <span style="color:blue">Hint: </span> There are 12 inches in 1 ft. so 75 inches is 6ft 3inches
 
 **COMPONENTS**:
->	**Package**: *com.knowmad.coaching.java.${student_name}*
->	**Class name**: *BasketballPlayer*
->	**Test class name**: *BasketballPlayerTest*
+> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Class name**: *BasketballPlayer*
+> * **Test class name**: *BasketballPlayerTest*
 
 
 ### Challenge 3: Date converter
@@ -54,9 +54,9 @@ Write a Java program to convert minutes into a number of years and days
 > + Output text: 3456749 minutes is approximately 6 years and 210 days 
 
 **COMPONENTS**:
->	**Package**: *com.knowmad.coaching.java.${student_name}*
->	**Class name**: *DateConverter*
->	**Test class name**: *DateConverterTest*
+> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Class name**: *DateConverter*
+> * **Test class name**: *DateConverterTest*
 
 ### Challenge 4: Speed Calculator
 
@@ -79,9 +79,9 @@ Write a program that:
 <span style="color:blue">Hint: </span>1 mile = 1609 meters
 
 **COMPONENTS**:
->	**Package**: *com.knowmad.coaching.java.${student_name}*
->	**Class name**: *SpeedCalculator*
->	**Test class name**: *SpeedCalculatorTest*
+> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Class name**: *SpeedCalculator*
+> * **Test class name**: *SpeedCalculatorTest*
 
 ### Challenge 5: Power of 2
 
@@ -101,9 +101,9 @@ This program takes a command-line argument **n** and prints a table of the power
 
 
 **COMPONENTS**:
->	**Package**: *com.knowmad.coaching.java.${student_name}*
->	**Class name**: *PowerOfTwo*
->	**Test class name**: *PowerOfTwoTest*
+> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Class name**: *PowerOfTwo*
+> * **Test class name**: *PowerOfTwoTest*
 
 
 
