@@ -18,7 +18,7 @@
 > + Area : 35
 
 **COMPONENTS**:
-> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Package**: *com.knowmad.edu.java.fundamentals.intro.${student_name}*
 > * **Class name**: *Rectangle*
 > * **Test class name**: *RectangleTest*
 
@@ -37,7 +37,7 @@
 <span style="color:blue">Hint: </span> There are 12 inches in 1 ft. so 75 inches is 6ft 3inches
 
 **COMPONENTS**:
-> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Package**: *com.knowmad.edu.java.fundamentals.intro.${student_name}*
 > * **Class name**: *BasketballPlayer*
 > * **Test class name**: *BasketballPlayerTest*
 
@@ -54,7 +54,7 @@ Write a Java program to convert minutes into a number of years and days
 > + Output text: 3456749 minutes is approximately 6 years and 210 days 
 
 **COMPONENTS**:
-> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Package**: *com.knowmad.edu.java.fundamentals.intro.${student_name}*
 > * **Class name**: *DateConverter*
 > * **Test class name**: *DateConverterTest*
 
@@ -79,7 +79,7 @@ Write a program that:
 <span style="color:blue">Hint: </span>1 mile = 1609 meters
 
 **COMPONENTS**:
-> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Package**: *com.knowmad.edu.java.fundamentals.intro.${student_name}*
 > * **Class name**: *SpeedCalculator*
 > * **Test class name**: *SpeedCalculatorTest*
 
@@ -101,7 +101,7 @@ This program takes a command-line argument **n** and prints a table of the power
 
 
 **COMPONENTS**:
-> * **Package**: *com.knowmad.coaching.java.${student_name}*
+> * **Package**: *com.knowmad.edu.java.fundamentals.intro.${student_name}*
 > * **Class name**: *PowerOfTwo*
 > * **Test class name**: *PowerOfTwoTest*
 
